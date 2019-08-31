@@ -1,0 +1,3 @@
+<!--mini soft/pages/home/home.wxml-->
+<text>hello world</text>
+<button>click me</button>
